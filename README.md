@@ -1,2 +1,2 @@
 # PowerBI-Sales
-![](https://app.powerbi.com/groups/me/dashboards/70cd553f-5b33-41ca-a285-45c7a3fd9c1b)
+![](file:///C:/Users/venka/AppData/Local/Temp/Power%20BI%20Desktop/print-job-6d373943-3840-4e2b-98e2-9f86cf81bf04/sales_powerbi.pdf)
