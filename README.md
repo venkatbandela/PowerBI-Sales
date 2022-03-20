@@ -1,2 +1,2 @@
 # PowerBI-Sales
-[embed]C:\Users\venka\Downloads\sales.png[/embed]
+![plot]C:\Users\venka\Downloads\sales.PNG[plot]
