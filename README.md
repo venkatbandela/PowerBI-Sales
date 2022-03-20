@@ -1,2 +1,2 @@
 # PowerBI-Sales
-[ ]!(img src= C:\Users\venka\Downloads\sales_powerbi.pdf)
+[ ]!(C:\Users\venka\Downloads\sales_powerbi.pdf)
